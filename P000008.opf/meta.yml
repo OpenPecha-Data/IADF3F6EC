@@ -1,7 +1,7 @@
 id: P000008
 initial_creation_type: ocr
 created_at: 29/10/2020
-last_modified_at: 25/11/2021
+last_modified_at: 2021-12-16 15:10:27.726226
 source_metadata:
   id: bdr:W1PD96682
   title: བཀའ་འགྱུར། ༼དཔེ་བསྡུར་མ།）
@@ -661,3 +661,5 @@ source_metadata:
       volume_number: 109
       total_pages: 34
       base_file: v109.txt
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: true
